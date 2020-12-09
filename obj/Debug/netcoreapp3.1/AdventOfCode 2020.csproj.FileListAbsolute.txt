@@ -16,3 +16,6 @@ C:\Users\d.dean\Documents\Learning\AdventOfCode 2020\bin\Debug\netcoreapp3.1\Mic
 C:\Users\d.dean\Documents\Learning\AdventOfCode 2020\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 C:\Users\d.dean\Documents\Learning\AdventOfCode 2020\obj\Debug\netcoreapp3.1\AdventOfCode 2020.dll
 C:\Users\d.dean\Documents\Learning\AdventOfCode 2020\obj\Debug\netcoreapp3.1\AdventOfCode 2020.pdb
+C:\Users\d.dean\Documents\Learning\AdventOfCode 2020\bin\Debug\netcoreapp3.1\Day2_1_data.txt
+C:\Users\d.dean\Documents\Learning\AdventOfCode 2020\bin\Debug\netcoreapp3.1\Day3_1_data.txt
+C:\Users\d.dean\Documents\Learning\AdventOfCode 2020\obj\Debug\netcoreapp3.1\AdventOfCode 2020.csprojAssemblyReference.cache
